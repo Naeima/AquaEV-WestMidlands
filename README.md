@@ -23,25 +23,25 @@ Chargers are clustered and colour-coded by Flood Zone classification (FZ3 → FZ
 ## Screenshots
 
 ### Full dashboard with EA flood warnings
-![Dashboard view](images/WestMidlands1.png)
+![Dashboard view](WestMidlands1.png)
 
 ### Flood warnings and charger clustering
-![Cluster view](images/WestMidlands2.png)
+![Cluster view](WestMidlands2.png)
 
 ### Charger points and Flood Zone overlay
-![Flood Zone overlay](images/WestMidlands3.png)
+![Flood Zone overlay](WestMidlands3.png)
 
 ### EA live warnings + chargers in at-risk areas
-![EA Warnings](images/WestMidlands4.png)
+![EA Warnings](WestMidlands4.png)
 
 ### Detailed map with water overlays
-![Water overlays](images/WestMidlands5.png)
+![Water overlays](WestMidlands5.png)
 
 ### Charger clustering in flood zones
-![Clustering](images/WestMidlands6.png)
+![Clustering](WestMidlands6.png)
 
 ### Regional overview
-![Regional overview](images/WestMidlands7.png)
+![Regional overview](WestMidlands7.png)
 
 ---
 
