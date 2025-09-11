@@ -67,6 +67,5 @@ git clone https://github.com/<your-repo>/ev-flood-risk.git
 cd ev-flood-risk
 pip install dash pandas geopandas folium shapely requests plotly
 
----
 
 
