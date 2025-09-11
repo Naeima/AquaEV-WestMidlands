@@ -1,7 +1,7 @@
 # West Midlands
 A Dash app that maps EV charging points across the West Midlands and overlays live Environment Agency (EA) flood warnings, Flood Zone polygons (undefended), OSM water bodies, and light analytics.
 # EV Chargers & Flood Risk — West Midlands
-'this uses Environment Agency flood and river level data from the real-time data API (Beta)'
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![Dash](https://img.shields.io/badge/Dash-2.x-brightgreen.svg)](https://dash.plotly.com/)
@@ -19,6 +19,8 @@ A Dash + Folium web app that maps EV charging points across the West Midlands an
 
 Chargers are clustered and colour-coded by Flood Zone classification (FZ3 → FZ2 → outside).
 
+# Attribution:
+'this uses Environment Agency flood and river level data from the real-time data API (Beta)'
 ---
 
 ## Screenshots
