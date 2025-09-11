@@ -61,7 +61,7 @@ Chargers are clustered and colour-coded by Flood Zone classification (FZ3 → FZ
 - `ons_evapp_west_midlands.py` — single-file Dash app with Folium map, EA overlays, EA feed, KPIs, time-series charts, and polygon upload.  
 ---
 ## Colab sheet option 
-- ![Colab URL](https://colab.research.google.com/drive/1muu2wlGo1XIVPCUEs2xgWeyD_XuQ_r75?usp=sharing)
+- [Colab URL](https://colab.research.google.com/drive/1muu2wlGo1XIVPCUEs2xgWeyD_XuQ_r75?usp=sharing)
 
 ## Installation
 ```bash
