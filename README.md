@@ -1,4 +1,4 @@
-# West Midlands
+# AquaEV-West Midlands
 A Dash app that maps EV charging points across the West Midlands and overlays live Environment Agency (EA) flood warnings, Flood Zone polygons (undefended), OSM water bodies, and light analytics.
 # EV Chargers & Flood Risk — West Midlands
 
