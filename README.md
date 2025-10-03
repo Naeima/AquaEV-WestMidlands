@@ -58,7 +58,7 @@ Chargers are clustered and colour-coded by Flood Zone classification (FZ3 → FZ
 ---
 
 ## Repository contents
-- `ons_evapp_west_midlands.py` — single-file Dash app with Folium map, EA overlays, EA feed, KPIs, time-series charts, and polygon upload.  
+- `app.py` — single-file Dash app with Folium map, EA overlays, EA feed, KPIs, time-series charts, and polygon upload.  
 ---
 ## Colab Notebook Version 
 
@@ -69,3 +69,4 @@ Chargers are clustered and colour-coded by Flood Zone classification (FZ3 → FZ
 git clone https://github.com/<your-repo>/ev-flood-risk.git
 cd ev-flood-risk
 pip install dash pandas geopandas folium shapely requests plotly
+python app.py
