@@ -1,3 +1,7 @@
+# Adapted from:
+# Naeima (2022). Correlation-between-Female-Fertility-and-Employment-Status.
+# GitHub repository: https://github.com/Naeima/Correlation-between-Female-Fertility-and-Employment-Status
+
 import dash
 from dash import dcc, html, Input, Output, State, dash_table
 import pandas as pd
@@ -885,3 +889,4 @@ def update_time_series(statuses, payments):
 
 if __name__ == "__main__":
     app.run_server(debug=True)
+
